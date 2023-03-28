@@ -1,4 +1,4 @@
-
+<img src="./node.png" width="80" height="80" alt="logo">
 
 # Node Processing Data
 
