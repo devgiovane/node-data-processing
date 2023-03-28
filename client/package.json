@@ -1,0 +1,16 @@
+{
+	"name": "client",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "npx browser-sync -w . "
+	},
+	"engines": {
+		"node": ">=19.7.0"
+	},
+	"license": "MIT",
+	"devDependencies": {
+		"browser-sync": "2.29"
+	}
+}

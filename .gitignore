@@ -1,0 +1,6 @@
+client/node_modules/
+server/node_modules/
+# IDE's
+.idea/
+.vscode/
+.DS_Store
